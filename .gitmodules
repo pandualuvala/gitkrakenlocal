@@ -1,0 +1,3 @@
+[submodule "gitkrakensubmodule"]
+	path = gitkrakensubmodule
+	url = https://github.com/pandualuvala/gitkrakensubmodule.git
